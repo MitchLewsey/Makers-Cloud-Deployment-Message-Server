@@ -1,0 +1,5 @@
+**/venv
+**/deploy.sh
+**/*.pem
+**/__pycache__
+**/deploy.sh
